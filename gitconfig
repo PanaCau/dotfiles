@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = romulonesi@gmail.com
-	name = romulo nesi
+	email = nesi
+	name = romulo
